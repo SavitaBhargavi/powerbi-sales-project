@@ -7,3 +7,4 @@ There are three files i'm attaching representing the work i have done.
 mysalesdata: consists of  time-information analysis, product analysis, customer analysis, and regional sales performance.
 mypractice: visualizes the average energy by month and average cost by quarter.
 mychallenge: sum of average by month and per capita by sale.
+![Uploading IMG-20250508-WA0014[1].jpg…]()
